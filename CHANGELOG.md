@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.1 - 30-12-2025
 
-* TODO: Describe initial release.
+* init description.
