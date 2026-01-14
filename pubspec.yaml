@@ -1,7 +1,8 @@
 name: easy_time_picker
-description: "A new Flutter project."
+description: "For easy time picker for pick time look like cupertino picker."
 version: 0.0.1
-homepage:
+author: Bilal Radwan<bellaismail629@gmail.com>
+homepage: https://github.com/bellaismail/easy_time_picker.git
 
 environment:
   sdk: ^3.9.2
