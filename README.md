@@ -21,6 +21,3 @@ Add `easy_time_picker` to your `pubspec.yaml` dependencies and run `flutter pub 
 ```dart
 const like = 'sample';
 ```
-
-## Additional information
-
